@@ -470,3 +470,4 @@ To load these macros automatically when attaching to the kernel, add the followi
 See the README in that directory for their usage, or use the built-in LLDB help with:
 
     (lldb) help showcurrentstacks
+
